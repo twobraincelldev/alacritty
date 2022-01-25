@@ -1,2 +1,0 @@
-# alacritty
-another one ffs
