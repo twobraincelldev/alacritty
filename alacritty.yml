@@ -1,6 +1,9 @@
 font: 
   size: 9
 
+cursor:
+  style: Beam
+
 # Catppuccin!
 colors:
   # Default colors
