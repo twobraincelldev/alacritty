@@ -1,5 +1,5 @@
 font: 
-  size: 5
+  size: 11
 cursor:
   blink_interval: 500
   unfocused_hollow: true
